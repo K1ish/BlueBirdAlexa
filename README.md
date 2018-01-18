@@ -1,5 +1,6 @@
 # BlueBirdAlexa
 A node.js program used to integrate twitter with amazon echo
+THIS IS NO LONGER NEEDED BECAUSE TWITTER IS INCLUDED WITH THE ECHO
 # Requirements
 Node.js 4.x.x or above (https://nodejs.org/)
 Port 80 open on your router (or use ngrok)
